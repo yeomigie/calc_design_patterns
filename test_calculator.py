@@ -1,4 +1,4 @@
-from commands_v2 import SumCommand, DifferenceCommand, ProductCommand, QuotientCommand
+from commands import SumCommand, DifferenceCommand, ProductCommand, QuotientCommand
 
 def test_sum():
     sum_cmd = SumCommand()
