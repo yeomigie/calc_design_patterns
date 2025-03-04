@@ -19,3 +19,16 @@ This is an advanced command-line calculator implemented using the **Command Patt
    ```bash
    git clone https://github.com/Sarachaker/calc_design_patterns.git
    cd calc_design_patterns
+
+# Log and Environment Setup
+This project demonstrates the use of:
+- GitHub Actions for CI/CD
+- Environment Variables for secure configuration
+- Logging for application monitoring
+
+## Setup
+
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
